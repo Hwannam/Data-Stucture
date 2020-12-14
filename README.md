@@ -1,2 +1,4 @@
 # Data-Stucture
-Data Structure lecture 
+2020-2 Data Structure lecture
+
+Lab & Application
